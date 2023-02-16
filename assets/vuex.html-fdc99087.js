@@ -1,0 +1,1 @@
+import{_ as t,V as a,W as c,X as e,Y as r}from"./framework-a5ccf766.js";const s={},o=e("h1",{id:"vuex",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vuex","aria-hidden":"true"},"#"),r(" vuex")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const h=t(s,[["render",_],["__file","vuex.html.vue"]]);export{h as default};

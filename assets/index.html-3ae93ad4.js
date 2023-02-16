@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-58de6733","path":"/category/vite/","title":"vite 分类","lang":"zh-CN","frontmatter":{"title":"vite 分类","blog":{"type":"category","name":"vite","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

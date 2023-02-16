@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-145c97bc","path":"/category/vite%E9%85%8D%E7%BD%AE/","title":"vite配置 分类","lang":"zh-CN","frontmatter":{"title":"vite配置 分类","blog":{"type":"category","name":"vite配置","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
